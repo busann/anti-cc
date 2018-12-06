@@ -1,0 +1,11 @@
+{
+	"files": {
+		"index.js": "cab4523a60f3dce36e4c67633db0885d23797964503e8d12d697bfea23c9345b",
+		"module.json": "bfc396c3a10bd26458c633cda08969a0b3cde7279c8996b4d69a1a25b62f82c8"
+	},
+	"defs": {
+		"C_PLAYER_LOCATION": 2,
+		"S_EACH_SKILL_RESULT": 12,
+		"S_LOGIN": 10
+	}
+}
